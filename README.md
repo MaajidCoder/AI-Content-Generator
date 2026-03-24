@@ -1,6 +1,7 @@
 # AI-Powered Content Generator 🚀
 
 A modern, full-stack MERN application that leverages the power of Artificial Intelligence (Google Gemini API) to generate high-quality blogs, social media captions, and professional emails tailored to your desired tone of voice.
+<img width="1911" height="895" alt="image" src="https://github.com/user-attachments/assets/32de8cc5-34a5-41c3-9ffd-b53c0757bcdf" />
 
 ## 🌟 Features
 - **AI Content Generation:** Quickly generate Blogs, Captions, or Emails using the Gemini 2.5 Flash model.
